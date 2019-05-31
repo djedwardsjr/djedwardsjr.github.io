@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: 'img/mountain-sun-splash.jpg'
+splash: '/img/mountain-sun-splash.jpg'
 title: Hello World
 ---
 
