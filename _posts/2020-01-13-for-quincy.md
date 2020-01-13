@@ -4,10 +4,8 @@ category: blog
 published: false
 title: For Quincy
 ---
-## This one's for Quincy!
+## This One's for Quincy
 
-```
-Breakfast is so good
-I anticipate it now
-Big Joe, here I come
-```
+Breakfast. Yum, yum, yum
+I anticipate it now.
+Big Joe, Here i come!
