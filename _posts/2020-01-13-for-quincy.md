@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: For Quincy
 ---
 ## This One's for Quincy
